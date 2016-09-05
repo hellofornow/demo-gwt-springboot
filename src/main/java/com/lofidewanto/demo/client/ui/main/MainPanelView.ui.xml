@@ -68,7 +68,7 @@
 								<b:NavbarCollapse b:id="navbar-collapse">
 									<b:NavbarNav addStyleNames="col-lg-4 {style.margin-title}">
 										<b:AnchorListItem ui:field="taskListAnchorListItem"
-											text="{i18n.app_title}"></b:AnchorListItem>
+											text="{i18n.app_title} 123"> </b:AnchorListItem>
 										<b:ListDropDown>
 											<b:AnchorButton dataToggle="DROPDOWN"
 												text="{i18n.menu_text_1}"></b:AnchorButton>
